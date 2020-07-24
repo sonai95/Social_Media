@@ -1,9 +1,14 @@
 # Social_Media
 A platform for people to make friends.
 
+
 Installation:
+
 npm install
 
-Start Project:\n
-npm run build \n
+
+Start Project:
+
+npm run build
+
 nodemon server.js
