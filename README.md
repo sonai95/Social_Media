@@ -4,6 +4,6 @@ A platform for people to make friends.
 Installation:
 npm install
 
-Start Project:
-npm run build
+Start Project:\n
+npm run build \n
 nodemon server.js
